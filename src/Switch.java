@@ -1,7 +1,7 @@
 public class Switch {
     public static void main(String[] args) {
 
-        // vou fazer o mesmo sistema que fiz com if else só que com switch
+        //sisteminha básico só pra dar o exemplo
 
         String ExemploSwitch = "Domingo";
 

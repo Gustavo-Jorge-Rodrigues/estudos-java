@@ -2,7 +2,7 @@ public class Variáveis {
     public static void main(String[] args) {
 
 
-    // exemplo das variáveis mais usadas👍
+    // exemplo das variáveis mais usadas
 
         int ExemploInt = 10;
             // int é usado para números inteiros
@@ -16,5 +16,21 @@ public class Variáveis {
             // Boolean é pra dizer se é verdadeiro ou falso
         String ExmploString = "Palavra ou frase";
             // String é usado para palavra ou frase
+
+        // agora vou fazer um sisteminha simples usando variáveis
+
+        String nome = "Rogério";
+        int idade = 17;
+        double Altura = 1.60;
+        boolean Trabalha = true;
+
+        System.out.println(" PERFIL ");
+        System.out.println("");
+        System.out.println("Nome:" +nome);
+        System.out.println("Idade:" +idade);
+        System.out.println("Altura:" + Altura);
+        System.out.println("É CLT?: " + Trabalha);
+        System.out.println("");
+        System.out.println("--------------------");
     }
 }

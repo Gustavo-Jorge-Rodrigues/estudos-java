@@ -1,10 +1,9 @@
 public class If_Else {
     public static void main(String[] args) {
 
-        // vou dar um exemplo da maneira que geralmente o if else é usado
+        // sisteminha usando if else só pra demonstrar
 
-        String DiaSemana = "Segunda";
-
+        String DiaSemana = "Quarta";
         if (DiaSemana.equals("Domingo")) {
             System.out.println("Hoje é Domingo");
         }
